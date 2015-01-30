@@ -279,7 +279,7 @@ div.header div.title h1 {
   text-align: center;
   font-size: 18px;
   color: #ffffff;
-  font-weight: 400;
+  font-weight: 300;
   padding: 0;
   margin: 0;
 }
@@ -649,7 +649,7 @@ div.post p.comments a:hover {
   color: #1abc9c;
 }
 div.post h1 {
-  font-size: 34px;
+  font-size: 32px;
   line-height: 46px;
   padding-bottom: 10px;
 }
